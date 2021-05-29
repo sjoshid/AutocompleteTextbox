@@ -1,0 +1,10 @@
+[package]
+name = "AutocompleteTextbox"
+version = "0.1.0"
+authors = ["Sujit Joshi <joshi.sujit020386@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+druid = { path = "C:/Users/joshi/OneDrive/druid/druid", features = ["im"]}
